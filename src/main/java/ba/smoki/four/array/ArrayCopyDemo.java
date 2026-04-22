@@ -1,4 +1,4 @@
-package ba.smoki.four;
+package ba.smoki.four.array;
 
 public class ArrayCopyDemo {
     static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ba.smoki.four;
+package ba.smoki.four.array;
 
 public class MultiDimeArrayDemo {
     static void main(String[] args) {

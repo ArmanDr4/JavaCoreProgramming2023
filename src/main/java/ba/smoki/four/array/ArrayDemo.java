@@ -1,4 +1,4 @@
-package ba.smoki.four;
+package ba.smoki.four.array;
 
 public class ArrayDemo {
     static void main(String[] args) {
@@ -29,9 +29,8 @@ public class ArrayDemo {
         System.out.println("Element na indeksu 1 = " + brojevi[1]);
         System.out.println("Element na indeksu 2 = " + brojevi[2]);
 
-        /**
-         * 2. Način
-         */
+
+        /* 2. Način */
         int[] numbers = {23, 1, 10};
     }
 }

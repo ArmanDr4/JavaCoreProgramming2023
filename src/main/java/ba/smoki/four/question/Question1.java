@@ -14,10 +14,10 @@ public class Question1 {
         int broj = new Scanner(System.in).nextInt();
         System.out.println("Entered value is = " + broj);
         int ostatak = broj % 2;
-        if(ostatak==0) {
+        if(ostatak==0){
             System.out.println("Unesena vrijednost je parna");
         }
-        if (ostatak==1){
+        if(ostatak==1){
             System.out.println("Unesena vrijednost je neparna");
         }
     }

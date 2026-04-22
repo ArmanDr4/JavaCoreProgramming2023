@@ -1,4 +1,4 @@
-package ba.smoki.four;
+package ba.smoki.four.array;
 
 /**
  * int [] numbers = new int[3];
@@ -6,7 +6,6 @@ package ba.smoki.four;
  * _    _   _
  * 0    1   2
  * --------------------------------------
- *
  * ___  ___ ___
  * 0     1   2
  */
